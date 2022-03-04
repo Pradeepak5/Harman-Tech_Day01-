@@ -1,3 +1,3 @@
-welcome="I_am_pradeep_kumar"
-print(max(welcome))
-print(min(welcome))
+welcome=input("Enter a word : ")
+print("highest letter is : ",max(welcome))
+print("lowest letter is :" ,min(welcome))
